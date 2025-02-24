@@ -1,4 +1,3 @@
-const API_KEY = 'rGA7N_H5pPyxuxv_b4IhmOOQIvUTDRCQbNqw65ctUac';
 const photoElement = document.getElementById('photo');
 const photographerElement = document.getElementById('photographer');
 const likeButton = document.getElementById('like-button');
